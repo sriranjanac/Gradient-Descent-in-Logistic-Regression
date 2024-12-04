@@ -1,1 +1,1 @@
-# Gradient-Descent-in-Logistic-Regression
+# Gradient Descent in Logistic Regression
